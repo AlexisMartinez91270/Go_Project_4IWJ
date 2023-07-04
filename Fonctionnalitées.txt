@@ -1,0 +1,6 @@
+User-auth (implémenter par Alexis Martinez) :
+	- Ajouter un utilisateur
+	- Supprimer un utilisateur
+	- Authentification des utilisateurs avec JWT
+Permet la création, suppression et la connexion des utilisateurs qui vont se connecter à l'api de chat
+
