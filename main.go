@@ -3,11 +3,11 @@ package main
 import (
 	"log"
 
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/apiconfig"
-	_ "github.com/AlexisMartinez91270/Go_Project_4IWJ/apidocs"
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/apihandler"
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/apimodel"
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/apiservice"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/config"
+	_ "github.com/AlexisMartinez91270/Go_Project_4IWJ/docs"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/handler"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/model"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/service"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"

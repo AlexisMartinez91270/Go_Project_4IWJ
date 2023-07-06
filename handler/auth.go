@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/api/config"
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/api/model"
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/api/service"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/config"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/model"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/service"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
 	"golang.org/x/crypto/bcrypt"

@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/api/model"
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/api/service"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/model"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/service"
 	"github.com/gin-gonic/gin"
 )
 

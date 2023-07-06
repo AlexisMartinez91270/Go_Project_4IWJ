@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/api/model"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/model"
 	"gorm.io/gorm"
 )
 

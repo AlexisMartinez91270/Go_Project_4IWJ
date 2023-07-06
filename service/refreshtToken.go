@@ -3,7 +3,7 @@ package service
 import (
 	"fmt"
 
-	"github.com/AlexisMartinez91270/Go_Project_4IWJ/api/model"
+	"github.com/AlexisMartinez91270/Go_Project_4IWJ/model"
 	"github.com/kjk/betterguid"
 	"gorm.io/gorm"
 )

@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a simple user registration and auth server with automatic jwt renewal.",
+        "title": "Gorm User \u0026 Auth",
+        "contact": {},
+        "version": "0.0.3"
+    },
+    "basePath": "/api/v1",
+    "paths": {}
+}
